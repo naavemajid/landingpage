@@ -14,3 +14,25 @@ h1{
   font-size: 3rem;
   color: #e2dbdb;
 }
+
+hr{
+  background-color: #f05f44;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+.btn{
+  font-weight: 700;
+  text-transform: uppercase;padding: 1rem 2rem;
+  border-radius: 40px;
+  
+  
+}
+
+.btn-primary{
+  background-color: #f05f44;
+  border-color: #f05f44;
+}
+.buffer{
+  height: 50px;
+}
